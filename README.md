@@ -1,4 +1,3 @@
-# til
-# til
-# til
-# til
+# TIL(Today I Learned)
+
+ここのリポジトリは、日々のアウトプットを供養するリポジトリとします。
